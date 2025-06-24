@@ -114,7 +114,5 @@ The goal of this report is to provide meaningful insights into:
 
 ---
 
-## 📃 License
 
-This project is licensed under the MIT License. Feel free to fork and customize for your own use.
 
