@@ -82,30 +82,34 @@ The goal of this report is to provide meaningful insights into:
 
 ## 🔁 Data Refresh Schedule
 
-- Data is static and manually updated.  
-  *(Can be enhanced with scheduled refreshes if connected to live sources like SQL Server or SharePoint.)*
+- The data is connected to source files and set to **Scheduled Refresh**.
+- The refresh frequency can be configured in Power BI Service (e.g., daily, weekly).
+- Ensure appropriate gateway configuration if the data source is on-premises.
+
 
 ---
 
 ## 🧑‍💻 Technologies Used
 
 - [Power BI Desktop](https://powerbi.microsoft.com/)
-- Manual Data Upload (CSV/Excel)
+- Manual Data Upload (Excel)
 - Interactive DAX Measures and Visualizations
 
 ---
 
 ## 📸 Report Preview
 
-> *(Screenshots can be added here manually from the PDF if needed)*  
-> Example:  
-> ![YTD Sales by Month](./screenshots/ytd-sales-month.png)
+![Screenshot 2025-06-24 101202](https://github.com/user-attachments/assets/fe59230f-2de5-4792-98c3-553363665452)
+
+![Screenshot 2025-06-24 101248](https://github.com/user-attachments/assets/ccb921c0-9b3b-4c04-9ea8-d0d2591ec212)
+
+
 
 ---
 
 ## 👤 Author
 
-**Bhagawan Bajrangi**  
+**Srikanth Allam**  
 📧 _[Add your contact or LinkedIn/GitHub link if desired]_
 
 ---
