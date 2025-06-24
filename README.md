@@ -110,7 +110,10 @@ The goal of this report is to provide meaningful insights into:
 ## 👤 Author
 
 **Srikanth Allam**  
-📧 _[Add your contact or LinkedIn/GitHub link if desired]_
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srikanth-allam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:allamsrikanth047@gmail.com) 
 
 ---
 
