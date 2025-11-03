@@ -51,7 +51,7 @@ The goal of this report is to provide meaningful insights into:
 
 ## 📂 Data Sources
 
-- Amazon product dataset (uploaded manually)
+- Amazon product dataset
 - Key fields include:  
   - Product Category  
   - Product Description  
@@ -92,7 +92,7 @@ The goal of this report is to provide meaningful insights into:
 ## 🧑‍💻 Technologies Used
 
 - [Power BI Desktop](https://powerbi.microsoft.com/)
-- Manual Data Upload (Excel)
+- Data Upload (Excel)
 - Interactive DAX Measures and Visualizations
 
 ---
