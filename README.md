@@ -107,8 +107,6 @@ The goal of this report is to provide meaningful insights into:
 
 ---
 
-## 👤 Author
-
 **Srikanth Allam**  
 
 ## 🌐 Socials:
